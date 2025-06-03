@@ -2,7 +2,7 @@ streamlit
 joblib
 numpy
 pandas
-opencv-python
+opencv-python-headless
 shap
 matplotlib
 plotly
