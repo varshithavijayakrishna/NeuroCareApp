@@ -1,8 +1,16 @@
 streamlit
 joblib
-pandas
 numpy
-scikit-learn
-matplotlib
+pandas
 opencv-python-headless
+shap
+matplotlib
+plotly
+scikit-image
+streamlit-drawable-canvas
+fpdf
+mediapipe
+reportlab
+seaborn
+transformers
 
